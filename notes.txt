@@ -1,3 +1,2 @@
 My DevOps learning journey
-Day 1: Learned basic git commands - init, add, commit, status
-
+Day 1: Learned basic git commands - init, add, commit, status.
