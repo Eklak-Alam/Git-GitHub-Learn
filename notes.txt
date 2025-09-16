@@ -1,2 +1,1 @@
-What is Git? Git is a distributed version control system.
-What is Git? Git is a distributed version control system.
+What is Git? Git is a distributed version control system.`:wq`
